@@ -15,22 +15,39 @@
 
 .reveal {
   font-size: 30px !important;
-  color:#727272;
+  color:black;
+}
+
+.reveal title {
+    color:black;
+}
+
+.reveal p {
+    color:black;
+}
+
+.reveal ul li {
+    color:black;
 }
 
 .reveal h2 {
+  font-weight: bold !important;
+  color:black;
+}
+
+.reveal h1 {
 	font-weight: bold !important;
-  color:#727272;
+  color:black !important;
 }
 
 .reveal h3 {
-  color:#727272;
+  color:black;
   text-transform: lowercase;
 }
 
 .reveal footer {
   	font-size: 50%;
-    color:#727272;
+    color:black;
 }
 
 .attribution { 
